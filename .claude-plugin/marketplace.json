@@ -1,0 +1,12 @@
+{
+  "name": "alphy0835",
+  "description": "Плагины владельца с диска",
+  "owner": { "name": "Alphy0835" },
+  "plugins": [
+    {
+      "name": "kit",
+      "source": "./",
+      "description": "Набор ролей команды разработки"
+    }
+  ]
+}
